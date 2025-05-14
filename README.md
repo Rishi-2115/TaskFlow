@@ -20,7 +20,7 @@ npm or yarn
 Installation
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/taskflow.git
+git clone https://github.com/Rishi-2115/taskflow.git
 
 Navigate to the project directory
 
